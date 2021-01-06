@@ -1,12 +1,11 @@
 <h1>Solucoes</h1>
 
-[#adhoc](#adhoc) [#data-structure](#data-structure) [#dynamic-programming](#dynamic-programming) [#graphs](#graphs) [#greedy](#greedy) [#math](#math) [#string](#string) [#strings](#strings) 
+[#adhoc](#adhoc) [#data-structure](#data-structure) [#dynamic-programming](#dynamic-programming) [#graphs](#graphs) [#greedy](#greedy) [#math](#math) [#strings](#strings) 
 ## strings
-- **kmp**
-	- [live-archive/3026](./live-archive/3026.cpp) `Period` ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+)
-## string
 - **suffix array**
 	- [uva/11512](./uva/11512.cpp) `GATTACA` ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+)
+- **kmp**
+	- [live-archive/3026](./live-archive/3026.cpp) `Period` ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+)
 ## math
 - **number theory**
 	- **diophantine**

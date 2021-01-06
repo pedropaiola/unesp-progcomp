@@ -1,7 +1,7 @@
 /*
 Problema: GATTACA
 Categorias:
-	string > suffix array
+	strings > suffix array
 Dificuldade: medio
 Descricao:
 Dica:
