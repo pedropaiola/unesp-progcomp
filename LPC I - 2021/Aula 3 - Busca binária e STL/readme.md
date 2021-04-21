@@ -1,4 +1,4 @@
-# Aula 3 - Busca binária e C++ STL: lower_bound, upper_bound, map e set
+# Aula 3 - Busca binária e C++ STL: map, set, iterador e algoritmos
 
 - [Gravação da aula - Busca binária](https://youtu.be/pjShh4nMdp0)
 - [Gravação da aula - STL parte 2](https://youtu.be/zbOe1GhHAYU)
