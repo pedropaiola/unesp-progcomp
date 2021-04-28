@@ -1,6 +1,6 @@
 # Aula 4 - Força Bruta e Backtracking
 
-- [Gravação da aula](https://youtu.be/pjShh4nMdp0)
+- [Gravação da aula](https://youtu.be/EXOAZU19O8E)
 - Códigos apresentados
     - [Passeio do Cavalo](./Códigos/passeio_cavalo.cpp)
     - [Problema do Troco (Backtracking)](./Códigos/troco_backtracking.cpp)
