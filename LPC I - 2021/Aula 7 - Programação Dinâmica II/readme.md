@@ -1,6 +1,15 @@
 # Aula 7 - Programação Dinâmica II
 
 - [Gravação da aula](https://youtu.be/_Cr4AKbjXww)
+- [https://youtu.be/DE6m4HTyy9E](Resolução do Contest)
+- [Contest](https://vjudge.net/contest/439567)
+    - [A - Ada and Subsequence (SPOJ ADASEQEN)](./Códigos/ADASEQEN.cpp)
+    - B - Multiplicity (CodeForces 1061C)
+    - [C - Consecutive Subsequence (CodeForces 977F)](./Códigos/977F_consecutive.cpp)
+    - [D - Buns (CodeForces 106C)](./Códigos/106C_buns.cpp)
+    - [E - Buying Apples! (SPOJ ABA12C)](./Códigos/ABA12C_apples.cpp)
+    - F - ARE YOU GOOD IN MATHS? (SPOJ BABA1)
+    - G - Hours and Minutes (UVA 12531)
 
 <h2>Material complementar</h2>
 
