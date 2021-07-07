@@ -1,8 +1,14 @@
 # Aula 13 - Strings: KMP e Substrings Palindrômicas (Algoritmo de Manacher e Palindromic Tree)
 
 - [Gravação da aula](https://youtu.be/p6vgDAtnhXc)
+- [Resolução do contest](https://youtu.be/rWA_Wn9_24c)
 - Implementações
     -[Palindromic Tree](./Códigos/palindromic_tree.cpp)
+- [Contest](https://vjudge.net/contest/444881)
+    - [A - Clock Pictures (Kattis clockpictures)](./Códigos/clockpictures.cpp)
+    - [B - 3-Palindromes (CodeChef PALIN3)](./Códigos/PALIN3.cpp)
+    - C - Space Navigation (CodeForces 1481A)
+    - D - Haiku (CodeForces 78A)
 
 <h2>Material complementar</h2>
 
