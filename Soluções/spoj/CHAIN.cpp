@@ -2,7 +2,7 @@
 Problema: Strange Food Chain
 Categorias:
 	data structure > disjoint set
-Dificuldade: facil
+Dificuldade: medio
 Descricao:
 Dica:
 Autor: Paiola

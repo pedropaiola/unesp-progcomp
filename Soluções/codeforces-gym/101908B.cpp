@@ -1,9 +1,10 @@
 /*
-Problema: Marbles
+Problema: B - Bolinhas de Gude / Marbles
 Categorias:
 	math > game theory
     dynamic programming
     data structure > bitset
+    maratona > regional 2018
 Dificuldade: dificil
 Descricao:
 Dica:

@@ -1,7 +1,8 @@
 /*
-Problema: Attacking rooks
+Problema: A - Attacking rooks
 Categorias:
 	graphs > specials > bipartite > matching
+    maratona > nacional 2013
 Dificuldade: medio
 Descricao:
 Dica:

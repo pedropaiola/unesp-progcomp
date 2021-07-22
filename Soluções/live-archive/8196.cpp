@@ -1,8 +1,9 @@
 /*
-Problema: Imperial roads
+Problema: I - Imperial roads
 Categorias:
 	graphs > minimum spanning tree (MST)
     graphs > specials > tree > lowest common ancestor (LCA)
+    maratona > nacional 2017
 Dificuldade: dificil
 Descricao:
 Dica:

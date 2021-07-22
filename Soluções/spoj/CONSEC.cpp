@@ -49,7 +49,6 @@ int main(){
         int op, x;
         vector<pair<int, char> > queries;
         vector<int> resp;
-        map<char, int> maiorSeg;
 
         cin >> S;
         n = S.size();

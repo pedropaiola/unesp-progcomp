@@ -1,7 +1,8 @@
 /*
-Problema: Enigma
+Problema: E - Enigma
 Categorias:
 	dynamic programming
+  maratona > nacional 2017
 Dificuldade: dificil
 Descricao:
 Dica:

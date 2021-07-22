@@ -1,7 +1,8 @@
 /*
-Problema: Kill the Werewolf
+Problema: K - Kill the Werewolf
 Categorias:
 	graphs > max flow
+    maratona > nacional 2016
 Dificuldade: medio
 Descricao:
 Dica:

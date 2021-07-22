@@ -1,7 +1,8 @@
 /*
-Problema: Interval Product
+Problema: I - Interval Product
 Categorias:
 	data structure > segment tree
+	maratona > nacional 2012 
 Dificuldade: facil
 Descricao:
 Dica:

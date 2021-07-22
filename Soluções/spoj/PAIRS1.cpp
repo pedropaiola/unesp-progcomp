@@ -1,8 +1,7 @@
 /*
 Problema: Count the Pairs
 Categorias:
-	data structure > map
-    data structure > set
+    data structure > map
 Dificuldade: facil
 Descricao:
 Dica:
@@ -15,22 +14,19 @@ using namespace std;
 int main(){
     int n, k, x, i, numPares = 0;
     map<long long int, int> hash;
-    set<long long int> numeros;
+    vector<long long int> numeros;
 
     cin >> n >> k;
 
     for(i = 0; i < n; i++){
         cin >> x;
-        numeros.insert(x);
-        if (hash.count(x))
-            hash[x]++;
-        else
-            hash[x] = 1;
+        numeros.push_back(x);
+        hash[x] = 1;
     }
 
-    for(set<long long int>::iterator it = numeros.begin(); it != numeros.end(); it++){
-        if (hash.count(*it + k)){
-            numPares += max(hash[*it], hash[*it + k]);
+    for(auto v : numeros){
+        if (hash.count(v + k)){
+            numPares += 1;
         }
     }
 
