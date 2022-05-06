@@ -2,3 +2,4 @@
 *.exe
 **/.vscode
 rm_generator.cpp
+desktop.ini
