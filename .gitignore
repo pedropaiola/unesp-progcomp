@@ -1,5 +1,4 @@
 *.log
 *.exe
-Soluções/rm_generator.cpp
-.vscode/
-Soluções/.vscode
+**/.vscode
+rm_generator.cpp
