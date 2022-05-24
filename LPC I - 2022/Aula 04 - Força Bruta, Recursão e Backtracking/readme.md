@@ -4,6 +4,16 @@
 - Códigos apresentados
     - [Amity Assessment](./Códigos/Amity_Assessment.cpp)
     - [The Closest Pair Problem](./Códigos/The_Closest_Pair_Problem.cpp)
+- [Resolução do Contest](Explicacao_Exercicios_IV.pdf)
+    - [A - Beautiful Year (CodeForces 271A)](./Códigos/BeautifulYear.cpp)
+    - [B - IQ teste (CodeForces 25A)](./Códigos/IQtest.cpp)
+    - [C - The dominoes solitaire (UVA 10503)](./Códigos/TheDominoesSolitaire.cpp)
+    - [D - Overlapping Scenes (UVA 12249)](./Códigos/OverlapingTheScenes.cpp)
+    - [E - Su Doku (UVA 989)](./Códigos/sudoku.cpp)
+    - F - Factorials and Powers of Two (CodeForces 1646C)
+    - [G - Jugs (UVA 571)](./Códigos/Jugs.cpp)
+    - H - Dreamoon and Wifi (CodeForces 467B)
+
 
 <h2>Material complementar</h2>
 
