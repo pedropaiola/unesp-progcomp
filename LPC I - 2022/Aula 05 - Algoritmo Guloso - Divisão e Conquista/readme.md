@@ -1,6 +1,17 @@
 # Aula 5 - Algoritmo Guloso (Greedy) - Divisão e Conquista
 
 - [Contest](https://vjudge.net/contest/491474)
+- [Resolução do Contest](Exerc%C3%ADcios%20V.pdf)
+    - [A - Shopaholic (UVA 11369)](./Códigos/Shopaholic.cpp)
+    - [B - Game Store (SPOJ GMSTRE)](./Códigos/GameStore.cpp)
+    - [C - a-Good String (CodeForces 1385D)](./Códigos/aGoodString.cpp)
+    - D - Expedition (SPOJ EXPEDI)
+    - [E - Collecting Coins (SPOJ COLCOIN)](./Códigos/CollectingCoins.cpp)
+    - [F - Creative Snap (CodeForces 1111C)](./Códigos/CreativeSnap.cpp)
+        - [Segunda solução](./Códigos/CreativeSnapPaiola.cpp)
+    - [G - Code For 1 (CodeForces 768D))](./Códigos/CodeFor1.cpp)
+    - H - Chopsticks (CodeChef TACHSTCK)
+    - I - Defense of a Kingdom (SPOJ DEFKIN)
 
 <h2>Material complementar</h2>
 
