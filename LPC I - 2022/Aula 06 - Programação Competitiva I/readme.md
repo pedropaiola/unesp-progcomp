@@ -3,6 +3,15 @@
 - Códigos apresentados
     - [Problema do Troco (Memoization)](./Códigos/troco_pd.cpp)
 - [Contest](https://vjudge.net/contest/497731)
+    - [A - Knapsack 1 (AtCoder dp_d)](./Códigos/Knapsack1.cpp)
+    - B - Cumulative Sum Query (SPOJ CSUMQ)
+    - [C - Frog 2 (AtCoder dp_b)](./Códigos/Frog2.cpp)
+    - [D - Flowers (CodeForces 474D)](./Códigos/Flowers.cpp)
+    - E - Caesar's Legions (CodeForces 118D)
+    - [F - Buns (CodeForces 106C)](./Códigos/Buns.cpp)
+    - [G - Train (URAL 1276)](./Códigos/Train.cpp)
+    - H - Longest Regular Bracket Sequence (CodeForces 5C)
+    - I - Road Optimization (CodeForces 1625C)
 
 
 <h2>Material complementar</h2>
