@@ -1,7 +1,15 @@
 # Aula 6 - Programação Competitiva II
 
 - [Contest](https://vjudge.net/contest/497822)
-
+- Resolução do Contest
+    - [A - Deque (AtCoder dp_l)](./Códigos/Deque.cpp)
+    - [B - Cut Ribbon (CodeForces 189A)](./Códigos/CutRibbon.cpp)
+    - [C - Squares (UVA 11407)](./Códigos/Squares.cpp)
+    - [D - Prince and Princess (UVA 10635)](./Códigos/PrincePrincess.cpp)
+    - [E - LCS (AtCoder dp_f)](./Códigos/LCS.cpp)
+    - [F - Diving for Gold (UVA 990)](./Códigos/DivingGold.cpp)
+    - [G - Homer Simpson (UVA 10465)](./Códigos/Homer%20Simpson.cpp)
+    - [H - Vacations (CodeForces 698A)](./Códigos/Vacations.cpp)
 
 <h2>Material complementar</h2>
 
