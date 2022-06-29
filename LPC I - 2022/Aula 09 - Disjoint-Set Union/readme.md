@@ -4,6 +4,12 @@
 - [Pictionary (Gym 102078A)](./Códigos/102078A_pictionary.cpp)
 - [Consecutive Letters (Spoj CONSEC)](./Códigos/CONSEC.cpp)
 - [Contest](https://vjudge.net/contest/499189)
+    - A - Find them, Catch them (POJ 1703)
+    - [B - Ancient Berland Roads (CodeChef ABROADS)](./Códigos/AncientBerlandRoads.cpp)
+    - [C - Galactic Bonding (UVA 11966)](./Códigos/GalacticBonding.cpp)
+    - [D - Almost Union-Find (UVA 11987)](./Códigos/GalacticBonding.cpp)
+    - [E - Cube Stacking (POJ 1988)](./Códigos/CubeStacking.cpp)
+    - [F - Books Exchange (1249B2)](./Códigos/BooksExchange.cpp)
 
 <h2>Material complementar</h2>
 
