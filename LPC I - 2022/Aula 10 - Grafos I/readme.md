@@ -2,7 +2,13 @@
 
 - [A Bug's Life (Spoj BUGLIFE)](./Códigos/BUGLIFE.cpp)
 - [Contest](https://vjudge.net/contest/500926)
-
+    - A - Is it a tree (SPOJ PT07Y)
+    - [B - Find the Treasure (SPOJ DIGOKEYS)](./Códigos/FindTreasure.cpp)
+    - C - Connectivity (EOlymp 982)
+    - [D - Police Stations (CodeForces 796D)](./Códigos/PoliceStations.cpp)
+    - E - Labyrinth (URAL 1033)
+    - F - Elevator Trouble (EOlymp 6023)
+    - [G - Jane and the Frost Giants (LightOJ 1175)](./Códigos/JaneFrostGiants.cpp)
 <h2>Material complementar</h2>
 
 - [Gravação da aula de 2021](https://youtu.be/nPXcXATBCNU)
