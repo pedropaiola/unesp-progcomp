@@ -5,6 +5,12 @@
     -[Algoritmo de Kruskal](./Códigos/MST_kruskal.cpp)
     -[Algoritmo de Kruskal (v2)](./Códigos/MST_kruskalv2.cpp)
 - [Contest](https://vjudge.net/contest/502910)
+    - A - Expensive subway (UVA 11710)
+    - [B - Roads of NITT (SPOJ NITTROAD)](./Códigos/RoadsNITT.cpp)
+    - C - Minimum Spanning Tree (SPOJ MST)
+    - D - Gift (CodeForces 76A)
+    - [E - Spanning Tree Fraction (HackerRank spanning-tree-fraction)](./Códigos/SpanningTreeFraction.cpp)
+    - F - Airports (UVA 11733)
 
 <h2>Material complementar</h2>
 
