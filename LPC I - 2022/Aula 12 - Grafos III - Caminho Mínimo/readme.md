@@ -2,6 +2,11 @@
 
 
 - [Contest](https://vjudge.net/contest/504151)
+    - [A - Ford-Bellman (EOlymp 1453)](./Códigos/1453_ford.cpp)
+    - B - Shortest Routes II (CSES 1672)
+    - [C - Route Change (UVA 11833)](./Códigos/11833_route.cpp)
+    - [D - Traffic Network (SPOJ TRAFFICN)](./Códigos/TRAFFICN.cpp)
+    - [E - Babel (UVA 11492))](./Códigos/Babel.cpp)
 
 <h2>Material complementar</h2>
 
