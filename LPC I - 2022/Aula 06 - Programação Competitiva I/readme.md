@@ -1,4 +1,4 @@
-# Aula 6 - Programação Din I
+# Aula 6 - Programação Dinâmica I
 
 - Códigos apresentados
     - [Problema do Troco (Memoization)](./Códigos/troco_pd.cpp)
