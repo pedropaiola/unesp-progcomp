@@ -1,4 +1,4 @@
-# Aula 6 - Programação Competitiva I
+# Aula 6 - Programação Din I
 
 - Códigos apresentados
     - [Problema do Troco (Memoization)](./Códigos/troco_pd.cpp)
